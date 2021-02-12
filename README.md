@@ -2,5 +2,5 @@
 
 - 🔭 I’m currently studying on Computer Engineer at KMITL, BKK. 
 
-[![Radsadorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=radsadorn&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Radsadorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=radsadorn&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
