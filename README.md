@@ -10,13 +10,13 @@
 
 <div align = "left">
 
-[![Radsadorn's GitHub stats](https://github-readme-stats.vercel.app/api?username=radsadorn&show_icons=true&theme=radical&hide=prs)](https://github.com/anuraghazra/github-readme-stats) 
+[![Bassilism's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bassilism&show_icons=true&theme=radical&hide=prs)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
 
 <div align = "right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radsadorn&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bassilism&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
