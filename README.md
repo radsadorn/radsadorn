@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm SUTTHIRAT PHUTHO</h1>
-<h3 align="center">Backend development beginner.</h3>
 
 - 📫 How to reach me **sutthiratphutho@gmail.com**
 
