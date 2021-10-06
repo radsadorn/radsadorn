@@ -1,5 +1,5 @@
 <!-- ref this: https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=radsadorn&color=lightgreen&style=flat-square" alt="radsadorn" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=radsadorn&color=brightgreen&style=flat-square" alt="radsadorn" /> </p>
 
 ## Hi there, I'm Razz Sutthirat Phutho. 👋
 
