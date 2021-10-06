@@ -1,4 +1,6 @@
-<div align='right'></div>![](https://komarev.com/ghpvc/?username=radsadorn&color=brightgreen)
+<!-- ref this: https://github.com/antonkomarev/github-profile-views-counter -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=radsadorn&color=lightgreen&style=flat-square" alt="radsadorn" /> </p>
+
 ## Hi there, I'm Razz Sutthirat Phutho. 👋
 
 - 🪧 I'm a 3rd year engineering student at KMITL.
