@@ -1,4 +1,4 @@
-<div align="right">![](https://komarev.com/ghpvc/?username=radsadorn&color=brightgreen)</div>
+<align='right'><>![](https://komarev.com/ghpvc/?username=radsadorn&color=brightgreen)
 ## Hi there, I'm Razz Sutthirat Phutho. 👋
 
 - 🪧 I'm a 3rd year engineering student at KMITL.
