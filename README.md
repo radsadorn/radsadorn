@@ -6,7 +6,7 @@
 ![radsadorn snake gif](https://github.com/radsadorn/radsadorn/blob/output/github-contribution-grid-snake.svg)      
 
 ### CONTACT ME.
-[![Gmail Badge](https://img.shields.io/badge/-mayank-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sutthiratphutho@gmail.com)](mailto:sutthiratphutho@gmail.com) : sutthiratphutho@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/-SUTTHIRAT-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sutthiratphutho@gmail.com)](mailto:sutthiratphutho@gmail.com) : sutthiratphutho@gmail.com
 
 (●'◡'●)
 
