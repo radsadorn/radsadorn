@@ -14,7 +14,7 @@
 
 ### CONTACT ME.
 [![Gmail Badge](https://img.shields.io/badge/-SUTTHIRAT-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sutthiratphutho@gmail.com)](mailto:sutthiratphutho@gmail.com) : sutthiratphutho@gmail.com
-[![Linkedin Badge](https://img.shields.io/badge/-SUTTHIRAT-c14438?style=social&logo=Gmail&logoColor=red&link=linkedin.com/in/psutthirat)]
+[![Linkedin Badge](https://img.shields.io/badge/-SUTTHIRAT-c14438?style=social&logo=Linkedin&logoColor=blue&link=linkedin.com/in/psutthirat)]Linkedin
 
 (●'◡'●)
 
