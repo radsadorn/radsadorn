@@ -13,8 +13,9 @@
 ![radsadorn snake gif](https://github.com/radsadorn/radsadorn/blob/output/github-contribution-grid-snake.svg)      
 
 ### CONTACT ME.
-[![Gmail Badge](https://img.shields.io/badge/-SUTTHIRAT-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sutthiratphutho@gmail.com)](mailto:sutthiratphutho@gmail.com) : sutthiratphutho@gmail.com
-[![Linkedin Badge](https://img.shields.io/badge/-SUTTHIRAT-c14438?style=social&logo=Linkedin&logoColor=blue&link=linkedin.com/in/psutthirat)]Linkedin
+[![Gmail Badge](https://img.shields.io/badge/-SUTTHIRAT-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:sutthiratphutho@gmail.com)](mailto:sutthiratphutho@gmail.com)
+<br>
+[![Linkedin Badge](https://img.shields.io/badge/-SUTTHIRAT-c14438?style=social&logo=Linkedin&logoColor=blue&link=linkedin.com/in/psutthirat)](linkedin.com/in/psutthirat)
 
 (●'◡'●)
 
